@@ -3,6 +3,13 @@
 // update nav bar to include donation
 // update food card to fix error when duplicating records
 
+// create a feature/branch : git checkout -b <name of branch>
+// git commit and upstream branch
+// merge locally
+// create pull request
+
+//--------------------------------------------------------
+
 import "./App.css";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
